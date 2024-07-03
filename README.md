@@ -1,6 +1,12 @@
 
 <h1>QuizMe - Android Quiz App</h1>
 
+<p align = "left">
+    <img width="150" alt="Logo" src="https://github.com/majamichaelis/QuizMe/assets/73911655/98226371-20e6-4ae9-ac3a-2f636f00eb4a">
+     
+</p>
+
+
 <p>In the context of our Quiz App project, our task was to program a quiz app under specified conditions. We used Android Studio as our IDE and Java.</p>
 
 <h2>Project Requirements</h2>
@@ -11,7 +17,6 @@
     <li>Time restrictions</li>
     <li>Assistance options</li>
     <li>Highscore list</li>
-    <li>Additional features (if applicable)</li>
     <li>Specified format and Android version</li>
 </ul>
 
@@ -33,7 +38,7 @@
 
 <h3>Person 2:</h3>
 <ul>
-    <li>Database integration: Highscore list, questions, mini-games</li>
+    <li>Database integration: Highscore list (SQLite), questions, mini-games</li>
 </ul>
 
 <h3>Person 3:</h3>
@@ -43,10 +48,10 @@
 
 <p align = "center">
     <img width="400" alt="Start Page" src="https://github.com/majamichaelis/QuizMe/assets/73911655/a676ec6f-4625-4f16-b49b-1452e2970cb1">
-     <br> Start page and Introduction
+     <br> Start page
 </p>
 <p align = "center">
     <img width="400" alt="Start Page" src="https://github.com/majamichaelis/QuizMe/assets/73911655/7439dae0-054b-4181-baa6-3823abcebc69">
-     <br> Start page and Introduction
+     <br> Game view
 </p>
 
